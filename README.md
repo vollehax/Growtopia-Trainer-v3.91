@@ -7,6 +7,5 @@ This Trainer is not good, i decided to make public source trainer because
 many people doesnt know how to make altough it is very easy.
 
 When you open this project on Visual Studio, Right click solution 'KissaTrainer' then click Restore Nuget Packages.
-So you will not get errors, may work without restoring nuget packages.
 
 - Kissa#2503
